@@ -24,11 +24,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ### **🎲 Rodando o Projeto**
 
-`# Faça um clone deste repositório
-$ git clone https://github.com/wdwf/Curadoria-de-filmes.git
+```
+Faça um clone deste repositório
+$ git clone https://github.com/wdwf/inter_model.git
 
-# Acesse a pasta do projeto e abra qualquer arquivo index.html no navegador`
-
+Acesse a pasta do projeto e abra qualquer arquivo index.html no navegador
+```
 # **Desenvolvedor**
 
 👨‍💻 Desenvolvido por [Weslley Ferreira de Moraes](https://www.linkedin.com/in/weslley-ferreira-61a75a188/)
